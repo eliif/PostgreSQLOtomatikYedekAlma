@@ -1,4 +1,4 @@
-# PostgreSQLOtomatikYedekAlma
+# PostgreSQL Otomatik Yedek Alma(Backup) ve Yedek Kurma(Restore)
 
 @echo off
    for /f "tokens=1-4 delims=/ " %%i in ("%date%") do (
